@@ -1,0 +1,201 @@
+/*  
+Theme Name: Unspoken For
+Theme URI: http://www.simply-erratic.net
+Description: Featuring Keira Knightley
+Version: 5.0
+Author: Julia
+Author URI: http://www.simply-erratic.net
+*/
+
+body {
+margin:0; padding:0;	
+font-family: arial;      
+font-size: 9pt;               
+text-align: justify; 
+color:#494a4a;
+}
+
+#header{ 
+width: 700px;
+height: 328px;
+background: # url('/kknightley.png') top center no-repeat;
+border-right:0px #;
+border-left:0px #;
+padding:5px 0 0 5px;            
+}
+
+#container {  
+margin: 0px auto;                
+width: 570px; 
+background: # url ()
+text-align: left;
+}
+
+#content {
+float: left;  
+width: 570px;
+background: #e1f0f1 url() 
+text-align: justify
+border-right:5px #white;
+border-left:5px #white;
+margin-top:0px;
+}
+
+#sidebar {
+float: right;  
+width: 130px;  padding: 10px;
+background: #ffffff url() 
+border-right:0px #white; 
+border-left:0px;
+margin-top:0px;
+}
+
+#footer {
+margin: 0;
+width:700px;
+height:35px;
+background:#;
+border-right:0px;
+border-left:0px;
+padding: 0px
+clear: both;
+}
+
+blockquote {background: # url();  
+color: #;
+padding: 10px;  
+margin: 10px;
+}
+
+img {
+background-color: #;
+border: 0px;
+}
+
+ul {
+list-style-image:  url(/bull18.gif);  
+color: #;
+}
+
+ul.navigation {
+margin:0px;
+list-style-image:none;
+list-style-type:none;
+}
+
+li.navigation{float:left;list-style-image:none;list-style-type:none;width: 124px;
+height: 30px;margin:1px;border: 0px solid #dadbdb;
+}
+a.navigation,a:link.navigation,a:active.navigation,a:visited.navigation{line-height:30px;background:#c7869f;color:#ffffff;text-align:center;display:block;}
+
+div.commentbox {
+color: #6b696b;
+background:#dac6d7 url();         
+border: 0px solid #f3f3f3;  
+padding: 10px;  margin-top: 10px; 
+}
+
+input, select {
+background:#ffffff;
+border: 1px solid #c7869f; 
+}
+
+h1 {
+/* archive titles */
+color: #915c73; 
+font: 11pt "Arial";
+line-height: 2em; 
+letter-spacing:0px;
+text-transform: uppercase;
+text-align: left;  
+font-weight: bold;
+background: transparent;  padding: 8px 10px 8px;  
+border-bottom: 1px solid #915c73;  margin: 0;
+}
+
+h2 {
+/* title header */
+color: #948459; 
+font: 16pt "Arial";
+line-height: 0em; 
+letter-spacing:-1px;
+text-transform: none;
+text-align: left;  
+font-weight: none;
+font-style: italic;
+background: transparent;  padding: 8px 10px 8px;  
+border-bottom: 0px solid #;  margin: 0;
+}
+
+h3 {
+/* comment header */
+color: #; 
+font: 9pt "Arial";
+line-height: 1em; 
+letter-spacing:0px;
+text-transform: uppercase;
+text-align: right;  
+font-weight: none;
+background: transparent;  padding: 8px 10px 8px;  
+border-bottom: 0px solid #;  margin: 0;
+}
+
+h4 {
+}
+
+h5 {
+/* comment author */
+color: #cb416a; 
+font: 9pt "Arial";
+line-height: 0em; 
+letter-spacing:0px;
+text-transform: none;
+text-align: left;  
+font-weight: none;
+background: transparent;  padding: 8px 10px 8px;  
+border-bottom: 0px solid #f48d45;  margin: 0;
+}
+
+h6 {
+/* comment form */
+color: #7cabc3; 
+font: 11pt "Arial";
+line-height: 0em; 
+letter-spacing:0px;
+text-transform: none;
+text-align: left;  
+font-weight: bold;
+background: transparent;  padding: 8px 10px 8px;  
+border-bottom: 0px solid #313d77;  margin: 0;
+}
+
+td {
+color: #666665;
+}
+
+p {
+color: #666665;
+}
+
+b { 
+color: #948459;              
+}
+
+i {  
+color: #7cabc3; 
+}
+
+u {   
+color: #d176f5; 
+}
+
+a:link, a:active, a:visited { 
+color: #cb416a;
+font-weight: bold;
+text-decoration:none;  
+}
+
+a:hover {
+color: #bacbd9;  
+}
+
